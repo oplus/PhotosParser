@@ -3,7 +3,7 @@ A photo parser for condo apartments brookers page
 
 Steps to use the script:
 
-1. Go to the photos page and copy all the content (Ctrl + A) => (Ctrl + C)
+1. Go to the MLS page and copy all the content (Ctrl + A) => (Ctrl + C)
 2. Paste all the page contents to MLS.txt
 3. Run the script
 
