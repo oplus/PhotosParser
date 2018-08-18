@@ -7,6 +7,8 @@ Steps to use the script:
 2. Paste all the page contents to MLS.txt
 3. Run the script
 
-You should see progressively directoriy for each MLS in the page titled by the MLS number and containing the MLS photos.
+You should progressively see directoriy for each MLS in the page titled by the MLS number and containing the MLS photos.
+
+Directories will be created in the same folder of the script.
 
 Note: I couldn't optimize the script speed to be faster (For one page containing 11 MLS the script need around 15 minutes).
